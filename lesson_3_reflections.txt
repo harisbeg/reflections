@@ -6,3 +6,6 @@ Describe the differences between forks, clones, and branches. When would you use
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The main benefit is that you can you won't need an internet connection to compare the changes between the local master and the remote. This can come handy if you are traveling and boarding a flight, where you may temporarily not have internet connectivity.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I can use other version control systems besides Git, although I like Git. Also, I can use a tool like Sourcetree and Gerritt for the pull requests/collaboration.

@@ -9,3 +9,6 @@ The main benefit is that you can you won't need an internet connection to compar
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I can use other version control systems besides Git, although I like Git. Also, I can use a tool like Sourcetree and Gerritt for the pull requests/collaboration.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I would want to make changes in a separate branch rather than directly in master if I am working on something that is new and has not been tested yet. I don't want to spoil master with something that has not been tester out yet.
